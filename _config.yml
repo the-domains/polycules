@@ -1,7 +1,7 @@
 name: Polycules
 favicon: null
-layout_spectrum: 0.6161991013213992
-typography_spectrum: 0.008221338735893369
+layout_spectrum: 1
+typography_spectrum: 0.7213
 cta:
   domain: null
   bucket: null
