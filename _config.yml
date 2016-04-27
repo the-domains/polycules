@@ -1,0 +1,28 @@
+name: Polycules
+favicon: null
+layout_spectrum: 0.6161991013213992
+typography_spectrum: 0.008221338735893369
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.18192707584239542
+  lightness: 0.9348245032597333
+  saturation: 0.7546372413635254
+  rhythmicContrast: 0.11731762369163334
+purpose: []
